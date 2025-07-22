@@ -1,0 +1,11 @@
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\_Arbol_AVL.Form1.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\_Arbol_AVL.Properties.Resources.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.csproj.GenerateResource.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\bin\Debug\“Arbol_AVL.exe.config
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\bin\Debug\“Arbol_AVL.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\bin\Debug\“Arbol_AVL.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\“Arbol_AVL\“Arbol_AVL\obj\Debug\“Arbol_AVL.exe.config
