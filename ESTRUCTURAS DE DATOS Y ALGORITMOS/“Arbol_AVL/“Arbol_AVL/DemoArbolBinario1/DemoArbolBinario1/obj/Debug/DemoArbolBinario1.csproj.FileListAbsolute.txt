@@ -1,0 +1,8 @@
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\obj\Debug\DemoArbolBinario1.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\obj\Debug\DemoArbolBinario1.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\bin\Debug\DemoArbolBinario1.exe.config
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\bin\Debug\DemoArbolBinario1.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\bin\Debug\DemoArbolBinario1.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\obj\Debug\DemoArbolBinario1.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\obj\Debug\DemoArbolBinario1.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoArbolBinario1\DemoArbolBinario1\obj\Debug\DemoArbolBinario1.exe.config
