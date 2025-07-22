@@ -1,0 +1,7 @@
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\bin\Debug\DemoColas.exe.config
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\bin\Debug\DemoColas.exe
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\bin\Debug\DemoColas.pdb
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\obj\Debug\DemoColas.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\obj\Debug\DemoColas.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\obj\Debug\DemoColas.exe
+C:\Users\tatod\OneDrive\Documentos\Estructuras de datos y algoritmos\Aplicacion\DemoColas\DemoColas\obj\Debug\DemoColas.pdb
