@@ -1,0 +1,11 @@
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\bin\Debug\SimuladorPilas.exe.config
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\bin\Debug\SimuladorPilas.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\bin\Debug\SimuladorPilas.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.Form1.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.Properties.Resources.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.csproj.GenerateResource.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\SimuladorPilas\SimuladorPilas\obj\Debug\SimuladorPilas.exe.config

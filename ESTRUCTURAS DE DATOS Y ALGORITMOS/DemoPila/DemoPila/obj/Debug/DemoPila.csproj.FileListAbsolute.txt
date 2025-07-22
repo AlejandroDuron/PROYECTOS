@@ -1,0 +1,8 @@
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\bin\Debug\DemoPila.exe.config
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\bin\Debug\DemoPila.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\bin\Debug\DemoPila.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\obj\Debug\DemoPila.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\obj\Debug\DemoPila.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\obj\Debug\DemoPila.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\obj\Debug\DemoPila.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\DemoPila\DemoPila\obj\Debug\DemoPila.exe.config

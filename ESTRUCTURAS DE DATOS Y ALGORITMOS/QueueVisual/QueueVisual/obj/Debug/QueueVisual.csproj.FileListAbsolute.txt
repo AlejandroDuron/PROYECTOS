@@ -1,0 +1,10 @@
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\bin\Debug\QueueVisual.exe.config
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\bin\Debug\QueueVisual.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\bin\Debug\QueueVisual.pdb
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.csproj.AssemblyReference.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.Form1.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.Properties.Resources.resources
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.csproj.GenerateResource.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.csproj.CoreCompileInputs.cache
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.exe
+C:\Users\tatod\OneDrive\Documentos\ESEN\Ciclo 5\Estructuras de datos y algoritmos\Proyectos\QueueVisual\QueueVisual\obj\Debug\QueueVisual.pdb
