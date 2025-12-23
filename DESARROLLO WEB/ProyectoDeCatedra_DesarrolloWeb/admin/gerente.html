@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Gerente</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/gerente.css">
+    <link rel="stylesheet" href="../css/empleado.css">
+</head>
+
+<body>
+
+    <div class="header">
+        <div class="d-flex align-items-center gap-3">
+            <img src="../img/logoSaborSalvadorenno.png" alt="Logo" width="65">
+            <div>
+                <h2 class="mb-0 fs-4">Sabor Salvadoreño</h2>
+                <p class="text-muted mb-0 small fw-bold">Administración General</p>
+            </div>
+        </div>
+
+        <div class="d-flex align-items-center gap-3">
+            <div class="user-badge">
+                <i class="fas fa-user-tie"></i>
+                <span>Gerente</span>
+            </div>
+            <button id="logoutBtn" class="btn logout-btn">
+                <i class="fas fa-sign-out-alt me-2"></i>Cerrar Sesión
+            </button>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+
+        <div class="row g-3 mb-4">
+            <div class="col-xl-3 col-md-12">
+                <div class="stats-card border-naranja d-flex align-items-center justify-content-between px-4 h-100">
+                    <div>
+                        <h6 class="text-muted mb-1">Personal Activo</h6>
+                        <div class="value text-naranja" id="statEmpleados">0</div>
+                    </div>
+                    <i class="fas fa-users fa-2x text-naranja opacity-25"></i>
+                </div>
+            </div>
+
+            <div class="col-xl-9 col-md-12">
+                <div class="row g-3 h-100">
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Total Platos</h6>
+                            <div class="value" id="statTotal">0</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Pupusas</h6>
+                            <div class="value" id="statPupusas">0</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Bebidas</h6>
+                            <div class="value" id="statBebidas">0</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Postres</h6>
+                            <div class="value" id="statPostres">0</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Entradas</h6>
+                            <div class="value" id="statEntradas">0</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4 col-xl">
+                        <div class="stats-card">
+                            <h6>Platos Fuertes</h6>
+                            <div class="value" id="statPrincipales">0</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-4" id="agregar">
+
+                <div class="content-section">
+                    <h4 class="section-title">Gestión RRHH</h4>
+                    <p class="text-muted">Registrar nuevo personal</p>
+                    <button id="btnAddEmpleado" class="btn btn-primary w-100 mb-3">
+                        <i class="fas fa-user-plus me-2"></i>Nuevo Empleado
+                    </button>
+                    <div id="empleadoFormulario" class="placeholder-content"></div>
+                </div>
+
+                <div class="content-section">
+                    <h4 class="section-title">Nuevo Plato</h4>
+                    <p class="text-muted">Agrega o edita un plato del menú</p>
+                    <button id="addPlato" class="btn btn-primary w-100 mb-3">
+                        <i class="fas fa-plus me-2"></i>Agregar Plato
+                    </button>
+                    <div id="menuFormulario" class="placeholder-content"></div>
+                </div>
+
+                <div class="content-section">
+                    <h4 class="section-title">Nueva Promoción</h4>
+                    <p class="text-muted">Agrega o edita un plato en promoción</p>
+                    <button id="addPromocion" class="btn btn-primary w-100 mb-3">
+                        <i class="fas fa-plus me-2"></i>Agregar Promoción
+                    </button>
+                    <div id="promocionFormulario" class="placeholder-content"></div>
+                </div>
+            </div>
+
+            <div class="col-lg-8">
+
+                <div class="content-section mb-4">
+                    <h4 class="section-title">Distribución del Menú</h4>
+                    <div style="position: relative; height: 300px; width: 100%;">
+                        <canvas id="graficoCategorias"></canvas>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h4 class="section-title">Platos del Menú</h4>
+                    <p class="text-muted">Administra todos los platos de "Sabor Salvadoreño"</p>
+
+                    <div id="platosLista" class="placeholder-content"></div>
+                </div>
+
+                <div class="content-section">
+                    <h4 class="section-title">Promociones</h4>
+                    <p class="text-muted">Gestiona los platos en promoción</p>
+
+                    <div id="promosLista" class="placeholder-content"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script type="module" src="../js/logout.js"></script>
+    <script type="module" src="../js/operaciones/authGuard.js"></script>
+    <script type="module" src="../js/operaciones/logicGerente.js"></script>
+    <script type="module" src="../js/operaciones/menu.js"></script>
+    <script type="module" src="../js/operaciones/promociones.js"></script>
+
+</body>
+
+</html>
