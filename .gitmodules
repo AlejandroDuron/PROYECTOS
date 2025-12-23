@@ -1,0 +1,6 @@
+[submodule "Repositorio-Guias"]
+	path = Repositorio-Guias
+	url = https://github.com/AlejandroDuron/Repositorio-Guias
+[submodule "ProyectoDeCatedra_DesarrolloWeb"]
+	path = ProyectoDeCatedra_DesarrolloWeb
+	url = https://github.com/EsmeMejia29/ProyectoDeCatedra_DesarrolloWeb
