@@ -4,3 +4,9 @@
 [submodule "ProyectoDeCatedra_DesarrolloWeb"]
 	path = ProyectoDeCatedra_DesarrolloWeb
 	url = https://github.com/EsmeMejia29/ProyectoDeCatedra_DesarrolloWeb
+[submodule "DESARROLLO WEB/ProyectoDeCatedra_DesarrolloWeb"]
+	path = DESARROLLO WEB/ProyectoDeCatedra_DesarrolloWeb
+	url = https://github.com/EsmeMejia29/ProyectoDeCatedra_DesarrolloWeb
+[submodule "DESARROLLO WEB/PROYECTOS PERSONALES/Repositorio-Guias"]
+	path = DESARROLLO WEB/PROYECTOS PERSONALES/Repositorio-Guias
+	url = https://github.com/AlejandroDuron/Repositorio-Guias
